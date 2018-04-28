@@ -8,7 +8,6 @@ import (
 	"time"
 )
 
-var timer = 30
 var correctNum int
 
 //Game は正解数とゲーム終了の契機を保持します
